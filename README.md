@@ -8,7 +8,7 @@ I'm Sai Pavan Kumar</h1>
 
 - 📫 You can reach out me **jonnalagaddasaipavankumar@gmail.com**
 
-- ⚡ Fun fact **A Mechanical Engineer transitioned into a Data Analyst Professional**
+- ⚡ Fun fact **I am a Mechanical Engineer, who transitioned into a Data Analyst Professional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
