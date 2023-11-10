@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, 
 I'm Sai Pavan Kumar</h1>
 <h3 align="center">A Data Analyst</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fonline-courses%2Fdata-science-courses%2Ftop-9-career-options-in-data-analytics&psig=AOvVaw3RoBpnlbJNOUSMKcCfKDmm&ust=1699683634816000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC9_IvluIIDFQAAAAAdAAAAABAb)")
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imSaiPavan27-s6&label=Profile%20views&color=0e75b6&style=flat" alt="Sai Pavan Kumar-s6" /> </p>
 
