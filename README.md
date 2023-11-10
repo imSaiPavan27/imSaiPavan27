@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, 
 I'm Sai Pavan Kumar</h1>
 <h3 align="center">A Data Analyst</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imSaiPavan27-s6&label=Profile%20views&color=0e75b6&style=flat" alt="Sai Pavan Kumar-s6" /> </p>
 
